@@ -6,7 +6,7 @@ import subprocess
 import threading
 import pymongo
 import feedparser
-from config import API_ID, API_HASH, BOT_TOKEN, URL_A, START_PIC, MONGO_URI
+from config import API_ID, API_HASH, BOT_TOKEN, URL_A, START_PIC, MONGO_URI, ADMINS
 
 from webhook import start_webhook
 
