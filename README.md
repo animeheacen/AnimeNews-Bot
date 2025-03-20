@@ -22,7 +22,7 @@ A Telegram Bot Repo Capable of doing the following Tasks.
 
 ## Owner/Sudo Cmds
 ```
-None till now
+/news - To Connect a channel where news will be posted [/news <channel id or username with @>]
 ```
 
 
